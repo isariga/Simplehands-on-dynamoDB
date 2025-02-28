@@ -26,9 +26,7 @@ Click on your table name (e.g., customer_id).
 Navigate to the "Items" tab.
 Click on "Create Item" and Enter data for the item.
 Click "Save" to insert the item.
-
-![explore table item](https://github.com/user-attachments/assets/f6dd1901-53e4-4aba-a923-1773b0d04ede)
-
+![create item](https://github.com/user-attachments/assets/b22c28e2-0646-4c06-88fb-5310867e1ed3)
 
 Step 4: Verify the Data
 In the Items tab, check if the item appears in the table.
